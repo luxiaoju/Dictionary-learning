@@ -6,11 +6,11 @@ Implement Dictionary learning for object recognition tasks.
 
 For mathematical details:
 
-[Dictionary Learning] (https://github.com/formosa21/Dictionary-learning/blob/master/DictionaryLearning.pdf)
+[Dictionary Learning] (https://github.com/kchu25/Dictionary-learning/blob/master/DictionaryLearning.pdf)
 
 For a pictorial overview:
 
-[Overview] (https://github.com/formosa21/Dictionary-learning/blob/master/Slides.pdf)
+[Overview] (https://github.com/kchu25/Dictionary-learning/blob/master/Slides.pdf)
 
 Right now the input signal is just image of letters from A to Z.
 
